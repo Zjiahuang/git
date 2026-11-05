@@ -1,29 +1,29 @@
-# ÒÀÀµ
+# ä¾èµ–
 node_modules/
 
-# IDE ±¾µØÅäÖÃ
+# IDE æœ¬åœ°é…ç½®
 .codeartsdoer/
 .vscode/
 .idea/
 
-# ÏµÍ³ÎÄ¼ş
+# ç³»ç»Ÿæ–‡ä»¶
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# ¹¹½¨²úÎï
+# æ„å»ºäº§ç‰©
 dist/
 build/
 out/
 coverage/
 
-# »·¾³±äÁ¿Óë±¾µØÅäÖÃ
+# ç¯å¢ƒå˜é‡ä¸æœ¬åœ°é…ç½®
 .env
 .env.local
 .env.*.local
 *.local
 
-# ÈÕÖ¾ÓëÁÙÊ±ÎÄ¼ş
+# æ—¥å¿—ä¸ä¸´æ—¶æ–‡ä»¶
 *.log
 npm-debug.log*
 *.tmp
