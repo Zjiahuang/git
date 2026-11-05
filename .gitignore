@@ -1,12 +1,29 @@
-.codeartsdoer/
+# 依赖
+node_modules/
 
-# 系统与编辑器
-.DS_Store
-Thumbs.db
-desktop.ini
+# IDE 本地配置
+.codeartsdoer/
 .vscode/
 .idea/
 
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 构建产物
+dist/
+build/
+out/
+coverage/
+
+# 环境变量与本地配置
+.env
+.env.local
+.env.*.local
+*.local
+
 # 日志与临时文件
 *.log
+npm-debug.log*
 *.tmp
